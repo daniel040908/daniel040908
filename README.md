@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danie040908&label=Profile%20views&color=0e75b6&style=flat" alt="danie040908" /> </p>
 
-- Estou trabalhando em projetos Backend e Frontend [SERV_CRUD](https://github.com/daniel040908/SERV_CRUD.git)
+- Estou trabalhando em projetos Backend e Frontend [BackEndLivraria](https://github.com/daniel040908/BackEndLivraria.git)
 
 - Atualmente estou aprendendo **Frameworks e mobile**
 
