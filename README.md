@@ -7,7 +7,7 @@
 
 - Atualmente estou aprendendo **Frameworks e mobile**
 
-- Estou disponível em **danielcamposmedeiros08@gmail.com**
+- Estou disponível em **danielcamposmedeiros08@gmail.com.br**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
