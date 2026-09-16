@@ -1,9 +1,9 @@
 <h1 align="center">Olá, meu nome é Daniel Medeiros</h1>
-<h3 align="center">Sou um Desenvolvedor Web, Estudante de Tecnologia e atualmente, estou focado em: tecnologia ex: React, Javascript, Android.</h3>
+<h3 align="center">Sou um Desenvolvedor Web, Estudante de Tecnologia e atualmente, estou focado em: tecnologia ex: React, Javascript, Android e Banco de dados.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danie040908&label=Profile%20views&color=0e75b6&style=flat" alt="danie040908" /> </p>
 
-- Estou trabalhando em projetos Backend e Frontend [[BackEndLivraria](https://github.com/daniel040908/BackEndLivraria.git)],.[[FitManager](https://github.com/daniel040908/FitManager_system.git)]
+- Estou trabalhando em projetos Backend e Frontend [[BackEndLivraria](https://github.com/daniel040908/BackEndLivraria.git)],[[FitManager](https://github.com/daniel040908/FitManager_system.git)]
 
 - Atualmente estou aprendendo **Frameworks e mobile**
 
